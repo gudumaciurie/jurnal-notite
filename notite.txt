@@ -1,2 +1,1 @@
 Astazi am invatat comenzile Git.
-Aceasta modificare va fi anulata.
