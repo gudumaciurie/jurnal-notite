@@ -1,1 +1,2 @@
 Astazi am invatat comenzile Git.
+Aceasta este notita colegului.
